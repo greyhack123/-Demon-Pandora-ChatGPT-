@@ -3,7 +3,9 @@
 			color: red;
 		}
 	</style>
+	<body>
 	<h1>Demon Pandora</h1>
+	</body>
 
 恶魔潘多拉 (Demon Pandora)，一个不只是命令行的 ChatGPT。
 
