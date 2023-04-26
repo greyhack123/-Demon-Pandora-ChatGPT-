@@ -1,4 +1,4 @@
-<img src="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/Images/mywallet.png" alt="作者的二维码钱包"> <p>https://tether.to</p>
+<img src="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/Images/mywallet.png" alt="作者的二维码钱包"> <p>https://tether.to</p> <p>https://www.okx.com/cn/web3</p>
 <p style="font-family: cursive;">作者的钱包地址 ["USD₮ Omni"] 3NCb82X96Z7YrdsQeV5ad6T85o1bh3Wkw5 ["USD₮ TRC-20"] TVdXU8yEtMx8RcF7M1GkQuyosiztTgETBh</p>
  
 <h1>Demon Pandora指令防检查</h1>
