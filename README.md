@@ -1,3 +1,4 @@
+Demon Pandora
 恶魔潘多拉 (Demon Pandora)，一个不只是命令行的 ChatGPT。
 
 恶魔潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
