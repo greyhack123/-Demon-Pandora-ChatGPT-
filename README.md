@@ -16,11 +16,9 @@
 			}
 		}
 	</style>
-	</head>
 <body>
 <h1 class="error">Demon Pandora</h1>
 	</body>
-</html>
 
 恶魔潘多拉 (Demon Pandora)，一个不只是命令行的 ChatGPT。
 
