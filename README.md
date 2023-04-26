@@ -1,4 +1,4 @@
-<title>Rainbow Word</title>
+
 	<style>
 		/* 添加样式以更改字体颜色 */
 		.error {
