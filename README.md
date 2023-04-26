@@ -1,7 +1,9 @@
-<body>
-<h1 style="background: linear-gradient(to right, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #8f00ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Demon Pandora</h1>
-</body>
-
+style>
+		h1 {
+			color: red;
+		}
+	</style>
+	<h1>Demon Pandora</h1>
 
 恶魔潘多拉 (Demon Pandora)，一个不只是命令行的 ChatGPT。
 
