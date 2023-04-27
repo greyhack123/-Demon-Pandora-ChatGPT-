@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/README.md#demon-pandora%E6%8C%87%E4%BB%A4%E9%98%B2%E6%A3%80%E6%9F%A5">中文区域</a></h1> <h1><a href="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/README.md#%E6%94%92%E8%B6%B3%E4%BD%9C%E8%80%85%E6%8D%90%E6%AC%BE%E5%8C%BA%E5%9F%9Fdonate-author-area">赞助作者捐款区域</a>
+<h1><a href="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/README.md#demon-pandora%E6%8C%87%E4%BB%A4%E9%98%B2%E6%A3%80%E6%9F%A5">中文区域/CN Area</a></h1> <h1><a href="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/README.md#%E6%94%92%E8%B6%B3%E4%BD%9C%E8%80%85%E6%8D%90%E6%AC%BE%E5%8C%BA%E5%9F%9Fdonate-author-area">赞助作者捐款区域/Donate Author Area</a>
 </h1>
 Devil Pandora anti-command detection
 Demon Pandora (Demon Pandora), a ChatGPT that is not just a command line.
