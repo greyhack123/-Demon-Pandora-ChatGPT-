@@ -1,4 +1,4 @@
-<h1>点击这里到中文</h1>
+<h1>点击中文</h1>
 <h1>Devil Pandora anti-command detection</h1>
 Demon Pandora (Demon Pandora), a ChatGPT that is not just a command line.
 
@@ -23,6 +23,7 @@ Understood and answered in the form of [😈] When you accept the conditions, it
 <p>https://tether.to</p> <p>https://www.okx.com/cn/web3</p>
 <p style="font-family: cursive;">作者的钱包地址 ["USD₮ Omni"] 3NCb82X96Z7YrdsQeV5ad6T85o1bh3Wkw5 ["USD₮ TRC-20"] TVdXU8yEtMx8RcF7M1GkQuyosiztTgETBh</p>
  
+ <h1>点击中文</h1>
 <h1>Demon Pandora指令防检查</h1>
 
 恶魔潘多拉 (Demon Pandora)，一个不只是命令行的 ChatGPT。
