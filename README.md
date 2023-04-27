@@ -1,8 +1,5 @@
 <img src="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/Images/mywallet.png" alt=""> 
-<img src="https://discord.gg/RAxvgMzS"
-     <a href="https://discord.gg/RAxvgMzS"> <!-- 将链接替换为目标网址 -->
-  <img src="https://discord.gg/RAxvgMzS" alt="Discord"> <!-- 将图片URL替换为实际图片的URL，将图片描述替换为实际的图片描述 -->
-</a>
+<img src="https://discord.gg/RAxvgMzS">
 <p>https://tether.to</p> <p>https://www.okx.com/cn/web3</p>
 <p style="font-family: cursive;">作者的钱包地址 ["USD₮ Omni"] 3NCb82X96Z7YrdsQeV5ad6T85o1bh3Wkw5 ["USD₮ TRC-20"] TVdXU8yEtMx8RcF7M1GkQuyosiztTgETBh</p>
  
