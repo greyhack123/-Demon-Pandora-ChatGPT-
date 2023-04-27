@@ -1,4 +1,4 @@
-<img src="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/Images/mywallet.png" alt="">  <a href="https://example.com">
+<img src="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/Images/mywallet.png" alt="">  <a href="https://discord.gg/RAxvgMzS">
   <img src="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/Images/discord.png" alt="图片描述" onclick="window.location.href='https://discord.gg/RAxvgMzS'">
 </a>
 <p>https://tether.to</p> <p>https://www.okx.com/cn/web3</p>
