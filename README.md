@@ -1,3 +1,5 @@
+<h1>当前恶魔潘多拉版本 v0.25/Current Demon Pandora Version v0.25</h1>
+<p>这个潘多拉版只能问黑客知识的东西，如果你们支持付钱，我会公开更多的潘多拉破解版/This Pandora Version Only Can Ask Hacker Knowledge Thing,If u guys support pay me,i'll public more crack pandora version</p>
 <h1><a href="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/README.md#demon-pandora%E6%8C%87%E4%BB%A4%E9%98%B2%E6%A3%80%E6%9F%A5">中文区域/CN Area</a></h1> <h1><a href="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/README.md#%E6%94%92%E8%B6%B3%E4%BD%9C%E8%80%85%E6%8D%90%E6%AC%BE%E5%8C%BA%E5%9F%9Fdonate-author-area">赞助作者捐款区域/Donate Author Area</a>
 </h1> <h1>😈Demon Pandora command anti-check</h1>
 Demon Pandora, a ChatGPT that is not just limited to command line operations, has implemented the main functions of a web-based ChatGPT. With backend optimization and bypassing Cloudflare, it boasts impressive speed.
