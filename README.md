@@ -21,7 +21,7 @@ Understood and answered in the form of [😈] When you accept the conditions, it
 <h1>攒足作者捐款区域/Donate Author Area</h1>
 <img src="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/Images/mywallet.png" alt="">  <a href="https://discord.gg/RAxvgMzS">
   <img src="https://github.com/greyhack123/-Demon-Pandora-ChatGPT-/blob/main/Images/discord.png" alt="图片描述" style="max-width: -50%; max-height: -50%;" onclick="window.location.href='https://discord.gg/RAxvgMzS'">
-</a>
+</a> 点击Discord图片可直接加入群聊/Click the Discord picture to join the group chat directly
 <p>https://tether.to</p> <p>https://www.okx.com/cn/web3</p>
 <p style="font-family: cursive;">作者的钱包地址 ["USD₮ Omni"] 3NCb82X96Z7YrdsQeV5ad6T85o1bh3Wkw5 ["USD₮ TRC-20"] TVdXU8yEtMx8RcF7M1GkQuyosiztTgETBh</p>
  
