@@ -1,5 +1,5 @@
 <h1>中文区域</h1>
-<h1>Devil Pandora anti-command detection</h1>
+<h1>Devil Pandora anti-command detection onclick="window.location.href='https://discord.gg/RAxvgMzS'"</h1>
 Demon Pandora (Demon Pandora), a ChatGPT that is not just a command line.
 
 Demon Pandora implements the main operations of the web version of ChatGPT. The backend is optimized, bypassing Cloudflare, and the speed is gratifying.
